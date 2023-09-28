@@ -5,7 +5,7 @@ metadata:
 spec:
   type: url
   targets:
-    - https://github.com/sgahlot/backstage-tutorial-nodejs/blob/master/catalog-info.yaml
-    - https://github.com/sgahlot/test-multi-repo-2/blob/master/catalog-info.yaml
+    - https://github.com/sgahlot/backstage-tutorial-nodejs
+    - https://github.com/sgahlot/test-multi-repo-2
   owner: Sandip Gahlot
   lifecycle: experimental
